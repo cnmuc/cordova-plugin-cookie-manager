@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "name": "cordova-plugin-cookie-manager",
+  "cordova_name": "Cordova Cookie Manager",
+  "description": "Flush cookies to persistent memory in Android",
+  "license": "MIT",
+  "repo": "",
+  "issue": "",
+  "author": {
+    "name": "Mirco Walke",
+    "email": "mirco.walke@altedra.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Addarkar/cordova-plugin-cookie-manager"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cookie",
+    "flush",
+    "persistent",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [ ],
+  "englishdoc": ""
+}
